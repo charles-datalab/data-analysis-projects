@@ -22,9 +22,10 @@ The Accra notebook, for example, filters the records to Greater Accra, engineers
 
 ## Repository contents
 
-- `notebooks/accra.ipynb` — Accra property-sales analysis.
-- `notebooks/london.ipynb` — London property-sales analysis.
-- `notebooks/mumbai.ipynb` — Mumbai property-sales analysis.
+- `accra.ipynb` — Accra property-sales analysis.
+- `london.ipynb` — London property-sales analysis.
+- `mumbai.ipynb` — Mumbai property-sales analysis.
+
 
 ## How to use the notebooks
 
