@@ -20,11 +20,10 @@ The notebooks follow a practical predictive-analysis workflow: importing and und
 
 The Accra notebook, for example, filters the records to Greater Accra, engineers variables such as price per square metre and distance from the central business district, and saves a regression-ready dataset. The London notebook works with borough-level records and includes crime-related information, while the Mumbai notebook combines regression and time-series techniques for property-price analysis.
 
-## Repository contents
+- [Accra property-sales analysis](accra.ipynb)
+- [London property-sales analysis](london.ipynb)
+- [Mumbai property-sales analysis](mumbai.ipynb)
 
-- `accra.ipynb` — Accra property-sales analysis.
-- `london.ipynb` — London property-sales analysis.
-- `mumbai.ipynb` — Mumbai property-sales analysis.
 
 
 ## How to use the notebooks
